@@ -1,0 +1,5 @@
+
+{
+  "name": "TravelSmart MVP",
+  "description": "An AI-powered multi-agent travel planner that uses LangGraph, Azure OpenAI, and Web Scraping to generate personalized itineraries and budget breakdowns."
+}
